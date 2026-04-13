@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Josh 👋
 
 💻 Developer | 🎮 Gamer | 🔧 Builder
 
@@ -25,4 +25,4 @@
 ---
 
 ## 📫 Contact
-Discord: yourname
+Discord: bodyFed
