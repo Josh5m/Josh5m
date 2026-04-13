@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - Working on FiveM scripts / Discord bots
 - Learning Lua, JavaScript, Python
--🌍 From USA 🇺🇸
+- From USA 🇺🇸
 
 ---
 
